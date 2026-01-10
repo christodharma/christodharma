@@ -1,6 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>1. Parkour system and shoulder-view combat system in Unity<br><br>🌱 I’m currently learning<br>1. Penetration Tester path in HackTheBox Academy<br>2. Flutter App Development (Tech Stack: Dart, Flutter, and Supabase)<br><br>
-
+🔭 I’m currently working on<br>
+1. Personal Finance Tracker App in Full Stack Mobile Development (Tech Stack: Dart, Flutter, and Supabase)<br>
+<br>
+🌱 I’m currently learning<br>
+1. Penetration Tester path in HackTheBox Academy<br>
+2. Designing Game Systems in Unity<br>
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/christodharmaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophorus-dharma-winata-8412b0272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:christodharma@gmail.com) 
@@ -10,6 +15,3 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/christodharma) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
