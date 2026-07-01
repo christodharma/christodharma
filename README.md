@@ -1,10 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>
-1. Personal Finance Tracker App in Full Stack Mobile Development (Tech Stack: Dart, Flutter, and Supabase)<br>
+1. Roguelike Farming Game in Godot (Tech Stack: Godot)<br>
 <br>
 🌱 I’m currently learning<br>
 1. Penetration Tester path in HackTheBox Academy<br>
-2. Designing Game Systems in Unity<br>
+2. Designing Game Systems in Unity and Godot<br>
 <br>
 
 ## 🌐 Socials:
